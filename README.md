@@ -1,2 +1,2 @@
 # servlets
-project on servlets and jsp
+project on servlets and jsp - shop online
